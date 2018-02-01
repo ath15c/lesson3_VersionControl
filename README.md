@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 1, 2018)
 
 ## Student Name:  
-(First and Last Name)
+(Alex Hernandez)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(In the lesson 3 assignment, I learned how to use github. I learned how to add, commit, and push my code to the remote repository.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that version control systems are extremely helpful to a developers organizational skills.
+2. I learned the basic commands of git and how they are used together.
+3. I learned the importance of version control systems and what they offer.
 
